@@ -1,0 +1,4 @@
+.dispositivos__itens {
+    display: flex;
+    justify-content: space-around;
+}

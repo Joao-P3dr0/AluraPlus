@@ -1,0 +1,17 @@
+.vantagens__sobre {
+    align-items: center;
+    box-sizing: border-box;
+    /* margin: 0 15rem; */
+   /* border: solid sandybrown; */
+    
+}
+
+.esquerda {
+
+    margin-right: 15rem;
+
+}
+
+.direita {
+    margin-left: 15rem;
+}

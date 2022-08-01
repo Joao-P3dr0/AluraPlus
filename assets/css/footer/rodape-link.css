@@ -1,0 +1,9 @@
+.rodape__link {
+    color: var(--branco);
+    text-decoration: none;
+}
+.rodape__link:hover{
+    font-weight: bold;
+    
+    
+}

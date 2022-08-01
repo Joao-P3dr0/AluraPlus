@@ -1,0 +1,7 @@
+.vantagens__telas {
+    align-items: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin-bottom: 9rem;
+}
