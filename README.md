@@ -1,5 +1,7 @@
 
-https://user-images.githubusercontent.com/110420166/183491533-c0222ed1-3c80-4092-9adb-3bc5b48f0d1c.mp4
+![AluraPlusLogo](https://user-images.githubusercontent.com/110420166/183493088-dbc1ec2f-40fe-4ce3-bc27-386feef9f781.png)
+
+
 
 
 # AluraPlus
